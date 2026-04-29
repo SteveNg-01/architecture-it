@@ -1,5 +1,7 @@
 # Modèle Economique
 
+## Physique
+
 | Appareils     | nombre    |
 |:--------------|:----------|
 | BOX FAI       | x1        |
@@ -11,3 +13,7 @@
 | LAPTOP        | x9        |
 | TELEPHONE VOIP| x9        |
 | POINT D'ACCES | x2        |
+
+---
+
+## Topologique

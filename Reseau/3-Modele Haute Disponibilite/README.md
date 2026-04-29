@@ -1,5 +1,7 @@
 # Modèle Haute Disponibilité
 
+## Physique
+
 | Appareils     | nombre    |
 |:--------------|:----------|
 | BOX FAI       | x1        |
@@ -11,3 +13,7 @@
 | LAPTOP        | x28       |
 | TELEPHONE VOIP| x28       |
 | POINT D'ACCES | x6        |
+
+---
+
+## Topologique

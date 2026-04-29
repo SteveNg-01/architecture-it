@@ -1,5 +1,7 @@
 # Modèle Haute Performance Réseau
 
+## Physique
+
 | Appareils     | nombre    |
 |:--------------|:----------|
 | BOX FAI       | x2        |
@@ -11,3 +13,7 @@
 | LAPTOP        | x36       |
 | TELEPHONE VOIP| x36       |
 | POINT D'ACCES | x14       |
+
+---
+
+## Topologique
